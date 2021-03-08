@@ -2,12 +2,16 @@
 I am a former student of CEFET-MG looking for opportunities and collaboration in projects related to software programming.
 - 🔭 Currently, I am working at DTI DIGITAL as an intern (in addition, I am improving my skills and algorithm skills regularly).
 - 🌱 I am currently learning Mobile development with Flutter
-- ⚡ Fun fact: I love games but I'm not good at playing :)
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ArthurSilvaN)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSilvaN&layout=compact)](https://github.com/ArthurSilvaN/github-readme-stats)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arthurrsn/)
 
+
+<!--
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ArthurSilvaN)
+-->
 <!--
 **ArthurSilvaN/ArthurSilvaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
