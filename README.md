@@ -1,7 +1,7 @@
 ### Hi, I'm Arthur Nunes 👋
 I am a former student of CEFET-MG looking for opportunities and collaboration in projects related to software programming.
 - 🔭 Currently, I am working at DTI DIGITAL as an intern (in addition, I am improving my skills and algorithm skills regularly).
-- 🌱 I am currently learning Mobile development with Flutter
+- 🌱 I am currently learning Mobile development with Kotlin
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSilvaN&layout=compact)](https://github.com/ArthurSilvaN/github-readme-stats)
