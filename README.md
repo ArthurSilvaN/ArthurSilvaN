@@ -1,6 +1,6 @@
 ### Hi, I'm Arthur Nunes 👋
 I am a former student of CEFET-MG looking for opportunities and collaboration in projects related to software programming.
-- 🔭 Currently, I am working at DTI DIGITAL as an intern (in addition, I am improving my skills and algorithm skills regularly).
+- 🔭 Currently, I am working at DTI DIGITAL as an intern (in addition, I am improving my programming algorithm skills regularly).
 - 🌱 I am currently learning Mobile development with Kotlin/Swift/Flutter
 
 
