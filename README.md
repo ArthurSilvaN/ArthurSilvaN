@@ -14,5 +14,5 @@ Sobre mim:
 
 GitHub Streak             |  Arthur Nunes GitHub stats
 :-------------------------:|:-------------------------:
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArthurSilvaN&theme=dracula&hide_border=true)](https://git.io/streak-stats) | ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSilvaN&layout=compact&hide=c&theme=synthwave&hide_border=true)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArthurSilvaN&theme=dracula&hide_border=true)](https://git.io/streak-stats) | ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSilvaN&theme=synthwave&hide_border=true)
 
