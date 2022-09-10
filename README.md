@@ -1,6 +1,6 @@
 ### Hi, I'm Arthur Nunes 👋
 
-Formado em Redes de Computadores pelo CEFET-MG
+Formado em Redes de Computadores pelo CEFET-MG e Cursando Sistemas de Informações pela Universidade Federal de Lavras (Bacharel)
 
 Belo Horizonte - MG, Brasil.
 
